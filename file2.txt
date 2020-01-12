@@ -3,3 +3,6 @@ this is the second line
 this the third line
 this is the fourth
 this is the fifth 
+this is the six line
+this is the seventh line
+
